@@ -1,0 +1,287 @@
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff!important;
+}
+
+
+
+.report_tab >ul>li {
+
+    background-color:  #EF8F7A!important;
+    border: 1px solid #fff;
+}
+.report_tab >ul>li a:hover {
+
+    background-color:  #00a98e!important;
+
+}
+
+.report_tab>ul>li>a{
+    color:#fff!important;
+}
+
+
+.menubar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.menubar li {
+    float: left;
+}
+
+.menubar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menubar li a:hover:not(.active) {
+    background-color: #9FD4C9;
+}
+nav #myNavbar li:not(.current) a:hover{
+    color: rgb(25, 25, 25);
+   background-color: #00a98e;
+}
+
+
+.active {
+    background-color: #00a98e;
+}
+.custom-button{
+    background-color: #00a98e;
+}
+.custom-bck-color
+{
+    background-color: #00a98e;
+
+}
+.custom-button-expense{
+    background-color: #00a98e;
+    color:#ffffff;
+}
+.custom-button-pending{
+    background-color:#9FD4C9 ;    
+}
+.button-color{
+    background-color:#EF8F7A ; 
+    color: #ffffff;
+}
+.dropdown_approve_button_by_accountant{
+    background-color:#EF8F7A;
+}
+.dropdown-menu{
+    padding:0px 0px!important;
+}
+.dropdown-menu .divider{
+    margin: 0px 0!important;
+}
+.dropdown-menu>li>a{
+    padding: 10px 20px!important;
+}
+.dropdown-menu>li>a:hover{
+    background-color: #9FD4C9;
+}
+.dropdown-user>li>a:hover{   background-color: #00a98e!important;}
+.panel-primary >.panel-heading {
+    background-color: #00a98e!important; 
+
+}
+  a {
+      text-decoration:none!important; 
+   }
+.panel-primary{
+    border-color: #fff!important; 
+}
+.panel-green >.panel-heading {
+    background-color: #9FD4C9!important; 
+}
+.panel-default>.panel-heading-left{
+    background-color: #9FD4C9!important;
+}
+.panel-default>.panel-heading-right{
+    background-color: #9FD4C9!important;
+}
+.panel-default{
+  
+        border-color: #00a98e!important;
+    border-width: 4px!important;
+}
+.panel-default>.panel-heading{
+    background-color: #9FD4C9!important;
+}
+.panel-custom>.panel-heading{
+    background-color:  #fad9d1!important;
+}
+.panel-custom{
+   
+     border-color: #ef8f7a!important;
+    border-width: 4px!important;
+}
+.panel-footer{
+      border-color: #000!important;
+    border-width: 4px!important; 
+    border-bottom-color: #000!important;
+ 
+}
+ a{
+  color:#000!important;
+}
+#user_notification_count
+{
+    float:right; 
+    color: white; 
+    background: red; 
+    display: none;
+    float: right;
+    color: white;
+    background: red;
+    border: 1px solid red;
+    border-radius: 27%;
+    width: 22px;
+    text-align: center;
+    font-weight: bold;
+    position: absolute;
+    right: 19px;
+    top: 5;
+    font-size: x-small;
+}
+.div_notify_status
+{
+    color: #970b0e;
+}
+.div_notify_project
+{
+    color: #00A98E;
+}
+.profileicon{
+    color:#01B196!important;
+}
+#user_notification_panel {  float:right!important; 
+                            color: white!important; 
+                            background: red!important; 
+
+                            float: right!important;
+                            color: white!important;
+                            background: red!important;
+                            border: 1px solid red!important;
+                            border-radius: 27%!important;
+                            width: 22px!important;
+                            text-align: center!important;
+                            font-weight: bold!important;
+                            position: absolute!important;
+                            right: 19px!important;
+                            top: 5!important;
+                            font-size: x-small!important;
+}
+#notification_globe{
+    padding-left:314px!important;
+}
+    .div_notify_status
+    {
+        color: #970b0e;
+    }
+    .div_notify_project
+    {
+        color: #00A98E;
+    }
+        .menubar ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    .menubar li {
+        float: left;
+    }
+
+    .menubar li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+    .menubar li a:hover:not(.active) {
+        background-color:#9FD4C9;
+    }
+
+    .active {
+        background-color: #00a98e;
+    }
+    .custom-button{
+        background-color: #00a98e;
+        display: block;
+    }
+    .custom-button-expense{
+        background-color: #00a98e;
+        color:#ffffff;
+    }
+    .custom-button-pending{
+        background-color:#9FD4C9 ;    
+    }
+    .dropdown_approve_button_by_accountant{
+        background-color:#EF8F7A;
+    }
+    .dropdown-menu{
+        padding:0px 0px!important;
+    }
+    .dropdown-menu .divider{
+        margin: 0px 0!important;
+    }
+    .dropdown-menu>li>a{
+        padding: 10px 20px!important;
+    }
+    .dropdown-menu>li>a:hover{
+        background-color: #9FD4C9;
+    }
+      .custom-bck-color
+     {
+     background-color: #00a98e;
+     color:#ffffff;
+     }
+
+#imagePreview {
+    width: 250px;
+    height: 300px;
+    background-position: center center;
+    background-size: cover;
+    -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, .3);
+    display: inline-block;
+}
+
+    .profile_picture_section
+{
+
+   overflow: hidden;
+   padding-left: 20px;
+}
+    #user_notification_panel {  float:right!important; 
+                                    color: white!important; 
+                                    background: red!important; 
+                            
+                                    float: right!important;
+                                    color: white!important;
+                                    background: red!important;
+                                    border: 1px solid red!important;
+                                    border-radius: 27%!important;
+                                    width: 22px!important;
+                                    text-align: center!important;
+                                    font-weight: bold!important;
+                                    position: absolute!important;
+                                    right: 19px!important;
+                                    top: 5!important;
+                                    font-size: x-small!important;
+        }
+        #notification_globe{
+            padding-left:314px!important;
+        }
+
+
